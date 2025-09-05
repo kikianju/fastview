@@ -53,7 +53,7 @@ valet install
 
 ✅ Laravel 프로젝트 생성 테스트
 cd your_project_directory
-composer create-project laravel/laravel blog "8.*"
+composer create-project laravel/laravel fastView "10.*"
 php artisan
 
 
